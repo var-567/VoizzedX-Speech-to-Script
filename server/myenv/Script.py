@@ -47,7 +47,7 @@ def code():
             list = list[:index_to_remove]
   return jsonify({"code": list})
 
-
+@app.route("/api/convert",methods=['POST'])
 def recognize_speech():
     if 'file' not in request.files:
         return jsonify({"error": "No file part"}), 400
