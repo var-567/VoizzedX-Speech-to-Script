@@ -4,12 +4,13 @@ It enhances the user's convenience and effectiveness by facilitating the generat
 with features of voice - recognition and program recommendation and code store.
 --
 # Technology Stack
-Flask Server
+<li>Flask Server
 React JS
 Python
 OpenAI API
 Firebase
-Judge0 API
+Judge0 API</li>
+
 
 # Features
  ## Voice Based Coding:  
