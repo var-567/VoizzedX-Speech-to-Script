@@ -1,4 +1,4 @@
-# VoizzedX-s2s
+# VoizzedX-Speech to Script
 VoizzedX - An AI powered voice-activated coding platform that generates, recommends, compiles, and stores code, streamlining programming for students, developers.
 It enhances the user's convenience and effectiveness by facilitating the generation and compilation of code in one place
 with features of voice - recognition and program recommendation and code store.
