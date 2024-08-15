@@ -22,9 +22,6 @@ cloud storage APIs such as Google Firebase and authentication mechanisms to enab
 ### Program Recommendation:
 Recommends related or relevant code snippets, libraries, or resources after a user chooses to execute a program, assisting the user in achieving their coding goal.
 
-# Archiecture
-
-
 # Demo
 
 https://github.com/var-567/VoizzedX-s2s/assets/104411690/4e600c4a-5db0-4e06-8f39-75f906f2eeff
