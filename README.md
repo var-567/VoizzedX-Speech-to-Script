@@ -26,3 +26,12 @@ Recommends related or relevant code snippets, libraries, or resources after a us
 
 https://github.com/var-567/VoizzedX-s2s/assets/104411690/4e600c4a-5db0-4e06-8f39-75f906f2eeff
 
+# This project is a collaborative effort where I have my contributions on
+System deisgn
+API integration
+Front-end
+
+# Team members
+1.Ragave.I
+2.Varshini.R
+
