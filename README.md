@@ -6,7 +6,6 @@ with features of voice - recognition and program recommendation and code store.
 # Technology Stack
 <li>Flask Server</li>
 <li>React JS</li>
-<li>Python</li>
 <li>OpenAI API</li>
 <li>Firebase</li>
 <li>Judge0 API</li>
